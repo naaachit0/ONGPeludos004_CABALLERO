@@ -1,0 +1,68 @@
+h1{
+    color:darkblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+p{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    color:darkblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    color: blue;
+    text-align:center;
+    font-size: 50px;
+}
+li{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+img{
+    width: 25%;
+    height: 25%;
+}
+table{
+    width: 80%;
+}
+td{
+    width: 40%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.img50{
+    width: 50%;
+    height: 50%;  
+}
+
+.img60{
+    width: 60%;
+    height: 60%;
+}
+
+.listaperro1{
+    color: blue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+.volver{
+    text-align: right;
+}
+
